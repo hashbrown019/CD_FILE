@@ -1,0 +1,71 @@
+
+<canvas id="canvas" style="display: block; width: 948px; height: 474px;" width="948" height="474" class="chartjs-render-monitor"></canvas>
+
+
+<script type="text/javascript">
+get_doc_name=()=>{
+	$send({
+		action:"/get_all_doc_name",
+		async:true,
+		func:load_dash_chart_samp
+	})
+}
+
+load_dash_chart_samp = (res) =>{
+	l_key = []
+	l_val = []
+	ls_res = JSON.parse(res)
+	for (var key in ls_res) {
+		if (ls_res.hasOwnProperty(key)) {
+			l_key.push(key)
+			l_val.push(ls_res[key])
+		}
+	}
+	load_dash_chart(l_key,l_val)
+}
+
+load_dash_chart = (l_key,l_val) =>{
+	data_col =[]
+	bgcol = [
+			'rgba(255, 99, 132, 1)',
+			'rgba(54, 162, 235, 1)',
+			'rgba(255, 206, 86, 1)',
+			'rgba(75, 192, 192, 1)',
+			'rgba(153, 102, 255, 1)',
+			'rgba(255, 159, 64, 1)'
+			]
+
+	for (var i = 0; i < l_key.length; i++) {
+		data_col.push(bgcol[$randint(bgcol.length-1)])
+	}
+	var ctx = document.getElementById('canvas').getContext('2d');
+	var myChart = new Chart(ctx, {
+		type: 'bar',
+		data: {
+			labels: l_key,
+			datasets: [{
+				label: 'Documents that are in the System based on Activity',
+				data: l_val,
+				backgroundColor: data_col,
+				borderColor: data_col,
+				borderWidth: 1
+			}],
+		},
+		options: {
+			scales: {
+				yAxes: [{
+					ticks: {
+						beginAtZero: true
+					}
+				}]
+			},
+			legend:{
+				display : true
+			}
+		}
+	});
+}
+get_doc_name()
+// ==================================================================
+
+</script>

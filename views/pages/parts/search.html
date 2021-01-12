@@ -1,0 +1,90 @@
+<div id="search_view" class="x-animate-left menu_item_view" hidden><br>
+	<h4 class="x-row x-text-blue">Document Search</h4>
+	<input id="inp_s"
+		class="x-input x-border x-animate-input x-border x-round-xxlarge x-center"
+		placeholder="&#x1F50D;"
+		type="text"
+		name=""
+		style="outline: none;" > 
+	<p>showing <b id="num_res"></b> results</p>
+	<div id="x-search"class="x-container">
+		<div class="x-row x-padding">
+			Search results will appear hear. search results are base
+			on its file name and not by its content.<br>
+			Searching document by its contents is under construction<br>
+			<B>Stay Tuned</B>
+		</div>
+	</div>						
+</div>
+
+<!-- --------------------------------------------------------------------------------- -->
+
+<div id="pdf_view_modal" class="x-modal">
+	<div class="x-modal-content x-round-large x-padding" style=" max-width: 90%;height: 80vh">
+		<span onclick="document.getElementById('pdf_view_modal').style.display='none'"
+		class="x-button x-display-topright x-red">&times;</span>
+		<h3 class="x-text-blue x-row">Document View <span class="fa fa-pdf"></span></h3>
+		<iframe class="x-container x-half x-round-large" id="pdf_viewer" src="/wait/s" style="border: 0px; height: 80%;"></iframe>
+		<div id="pdf_view_modal_content" class="x-container  x-half x-row">
+			<div class="x-container">
+				<h3 class="x-text-blue">Details</h3>
+				<span class="x-text-blue">Findings</span><hr>
+				<span class="x-text">MRMS</span>
+				<p class="x-tiny x-text-grey" id="mrms_find">---</p>
+				<span class="x-text">CFMS</span>
+				<p class="x-tiny x-text-grey" id="cfms_find">---</p>
+				<hr>
+				<span class="x-text-blue">File Metadata</span>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var no_res_str = "<h3 class='x-center x-text-grey'> no results to be shown <span class='fa fa-eye-slash x-text-red'></span></h3>"
+	var TEMP = ""
+	$("#inp_s").addEventListener("keyup", event => {
+		s_val = $("#inp_s").value
+		$send({
+			action : "/search_v",
+			data: $DATA({'item':s_val}),
+			async : true,
+			func : setlist_search_view
+		});
+		if(s_val.length == 0){$("#x-search").innerHTML="";$('#num_res').innerHTML=0}
+	});
+
+	setlist_search_view = (res) =>{
+		if(res != TEMP){
+			$('#x-search').innerHTML = '';
+			$('#x-search').innerHTML = res;
+			$('#num_res').innerHTML = res.split('item_res').length - 1
+			TEMP = res
+		}
+	}
+
+	set_findings =(res)=>{
+		data = JSON.parse(res)
+		$("#mrms_find").innerHTML = data['findings'].replace("\r\n","<br>")
+	}
+
+	open_modal_pdf_view = (args,f_id) =>{
+		$("#mrms_find").innerHTML = "----"
+		$send({
+			action : "/get_findings",
+			data: $DATA({'f_id':f_id}),
+			async : true,
+			func : set_findings
+		});
+
+		$('#pdf_view_modal').style.display = 'block'
+		$ID("pdf_viewer").src = 'http://apps2.caraga.dswd.gov.ph/'+args
+		$print($ID("pdf_viewer").src)
+		var iFrameID = $ID('pdf_viewer');
+		if(iFrameID) {
+			iFrameID.height = "";
+			iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
+		}
+	}
+</script>

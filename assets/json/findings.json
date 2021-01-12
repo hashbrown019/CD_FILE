@@ -1,0 +1,3287 @@
+{
+    "mrms_findings": [
+        {
+            "fk_file_guid": "64432543-d507-44bc-bec4-3e2eac27",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "06e76183-db06-4ede-a7f4-d62095c3",
+            "findings": "Please upload a clearer copy of the document",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "cd764900-635d-4b42-bcad-673220d0",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "dd849130-7db2-4344-8cc0-8e488072",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "1eae17e9-3932-4d86-854b-fb7f239c",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly.",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fce9ab02-f9fe-4a5a-849d-afc10b64",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "573282c3-bcbf-4ee0-823e-22cf0af8",
+            "findings": "CDD Membership and \"M\/BLGU official?\" columns were not completely filled-out, especially the last page",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "39851415-ca1b-4aac-93dc-2c751070",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "06e76183-db06-4ede-a7f4-d62095c3",
+            "findings": "Please include in the title: 1st BDRRMC Meeting",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "829a834f-e156-4395-a14f-d72696f7",
+            "findings": "1.) If a resolution is about the activation of a committee, it is a must to at least mention the composition and the names of the committee members. In this specific resolution, the GRS committee. Please indicate all the GRS committee members.\r\n\r\n2.) your list of signatories should form part of the body of the resolution. it appears in the document that these signatories were intentionally placed in the second page. move the 7th-9th clauses or paragraphs to the second page so that the resolution would appear as a one whole document.\r\n\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "89e7f870-a792-4bb6-aacb-bf697da4",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "86d73501-2f61-4948-9a7b-e28e022b",
+            "findings": "No data on Percentage to population.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "c8c81b4c-3ab4-4afe-8b09-bb7eb99c",
+            "findings": "Section 3. Roles were not indicated.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "48869143-8a8d-4db9-8c0c-4226c250",
+            "findings": "Wrong resolution attached",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7af33e5c-933f-4666-9f01-b8b253b6",
+            "findings": "Refer to the column for # of SP beneficiaries within HH: Indicate the number of benes within the household, not just the head of the HH.\r\n\r\n",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e42d9dcb-5eaa-497f-b38a-1cb629b1",
+            "findings": "No name of Baranay in the document",
+            "responsible_person": "",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "14aeff20-5d55-4024-9b6e-84dcdce4",
+            "findings": "Please refer to the male female columns: Do not put check marks. indicate the number of male and\/or female SP benes within the household. The same with the IP, Pantawid, SLP columns.\r\n\r\n",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "76e2a0af-001c-483e-a24d-741d0755",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "15416753-959e-455c-a843-4683d793",
+            "findings": "Please indicate either Y\/N in the \"M\/BLGU official? \" column in each attendee.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b17aa9cd-00fc-47f6-8916-5f2cbc06",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3bda2da4-1d52-41be-ab6a-204024a3",
+            "findings": "For the document to be more formal, please include in the heading the logo of the barangay.",
+            "responsible_person": "burtobedencio",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c88c8113-e61a-480c-98c1-87a1cf63",
+            "findings": "Please refer to page 7, reading of Resos: Include the resolution to concur Brgy. grant",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1cb4836f-48b2-4ad0-b5a4-2fa71550",
+            "findings": "Uploaded resolution is on the adoption and approval of the MIAC tech result, not the adoption of DROM and concurrence of brgy. grant",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6dded892-9a78-43e0-9a2c-722eb592",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "053511e4-9fe5-41f2-84fa-1ff54aa0",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.\r\n\r\n",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bc0765d3-d17c-4340-a70c-4254749c",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Profile of Punong Barangay Franco Alampangan\r\n>No reflected Contact number \r\n>No reflected start date  of being chair of BRT \r\n>As Punong BArangay, there are membership of the organization   which could be consider like Liga ng mga Barangay and others",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "39dcbeb2-ff2d-4777-a5ed-d46e4e9e",
+            "findings": "Please recompute the \"percentage to population\".\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Please refer to the formula I emailed.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "275c749c-0e22-426e-880e-c1f6a943",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a934dfca-7be1-4de8-a5bb-f8d5c6bd",
+            "findings": "Wrong form uploaded",
+            "responsible_person": "francisgalaura",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "7db1ed15-7ab2-4535-8bc4-858a9669",
+            "findings": "2nd Agendum was not specifically discussed in the narrative minutes.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "06e76183-db06-4ede-a7f4-d62095c3",
+            "findings": "Please fill-up the subtotal rows",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bd544409-61fb-48b0-8160-d021039b",
+            "findings": "PLease ensure that the watermark in the background is removed upon uploading",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fb191970-f704-470e-8ce9-aea1243f",
+            "findings": "Please recompute the \"percentage to population\".\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.  Please refer to the formula I emailed.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a1d55347-8a41-4af3-addb-b3ee47f9",
+            "findings": "What are the sustainability mechanisms for the project?\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "05bfdb0f-aa2b-4102-a158-1ab55097",
+            "findings": "Indicate the sustainability mechanisms for this project.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c88c8113-e61a-480c-98c1-87a1cf63",
+            "findings": "Please improve the spacing, alignment of the sentences in the document, especially in page 2",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1f22a7fe-2b92-49c1-b5ca-67a0b6b3",
+            "findings": "No substantial discussion on DROM\/P\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Elsie Montes\r\n> No fill up on some item like BSPMC Chair?\r\n> No reflected start date for being O and M and CMT Member\r\n",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "54ab678e-55d5-464e-8617-60d474bf",
+            "findings": "Please indicate in the title: 1st BDRRMC Meeting",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1e9af1fb-c5dd-40b1-b715-e6ed6a94",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "8feb094b-2e84-4839-bc9d-7dd6a40e",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "763ec17d-bffa-4335-a63f-68e564f4",
+            "findings": "Please indicate in the title:\r\n1st BDRRMC Meeting",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4b16c72d-ebbf-4dda-bf77-f9ee44f4",
+            "findings": "Duplicate",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d4cea01f-1d2e-43cd-92a3-90cb0457",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b621ebe3-f51b-45d6-a01e-00484038",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "2d48dbfb-9ca0-491a-9a81-4c2f75b1",
+            "findings": "Should also reflect here the PINCOs\/Grievance cited in the Activity Minutes Form",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "eeeb0050-f2e2-4ccf-8de4-abb67631",
+            "findings": "Based on the attendance sheet, there were 15 male and 18 female attendees.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9d74841b-09ee-4ed4-aa57-2d830e31",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "4b1d8015-dff4-48f3-a165-9308e3a8",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker. You can leave blank the total percentage to population.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b965c8a6-49b7-4b4c-aee1-180c4b33",
+            "findings": "Please ensure that the watermark in the background is removed upon uploading",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0ca3e2bf-aa4d-4784-9717-a0f599cc",
+            "findings": "Please indicate either Y\/N in the \"M\/BLGU official? \" column in each attendee.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "93dce5a8-92dc-4eec-91ea-4b6e7f24",
+            "findings": "Please refer to the last page:\r\nSignatories for \"Prepared by\" and \"certified correct\" should come first. \r\n\r\nIt should not be Approved by. should be \"Concurred by\". However, you may exclude this already. ",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0ca3e2bf-aa4d-4784-9717-a0f599cc",
+            "findings": "How about the CDD Membership of the attendees? ",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fe3b9ce1-f421-48da-9c8e-93334604",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "burtobedencio",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b337816c-9fbe-4f41-9afc-536d2c8d",
+            "findings": "In the first page, there were 5, not 3, attendees.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "66293e63-2364-4c77-b323-3c1b6a5e",
+            "findings": "Inconsistent on attendance.\r\nPlease re check count female and male vs attendance sheet.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "e9f34f8f-e0a3-4817-ade1-55a92f06",
+            "findings": "In your attendance sheet, the activity happened in 2 days, June 10 and 11. Should indicate in the date June 10-11, 2020",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a9fdb309-59ea-4e8f-bcf3-24cffd5d",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "75ea0ff9-4823-4d34-8f9f-5f1301c3",
+            "findings": "The same penmanship of participants in the first and second pages?",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "5bfa1f21-c359-4ff1-ae09-533bf91a",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3d61591d-7f7a-46dc-9bb4-c353516a",
+            "findings": "Please refer to second page, first bullet: Based on the result of the RAAT, the priority need of Brgy. Pili was the Cash for work having the highest percentage at 13.61 (see RAAT of Pili). There seem to have inconsistency of the results presented in the RAAT and the Narrative minutes.\r\n\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fce9ab02-f9fe-4a5a-849d-afc10b64",
+            "findings": "2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "2f5190dc-01b0-4681-a32f-90776e3e",
+            "findings": "If a resolution is about the activation of a committee, it is a must to at least mention the composition and the names of the committee members. In this specific resolution, the GRS committee. Please indicate all the GRS committee members. ",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "3ac80455-e6d0-4830-a78c-a566048d",
+            "findings": "Activity minutes form uploaded is from Brgy. Mabini, not from Brgy Amoslog.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "34786c29-bf8b-4112-b7c5-7d234344",
+            "findings": "Only 22 are female in the attendance sheet. Please re-check",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "d0ff82da-ff07-4ad7-b801-1ec7eb2a",
+            "findings": "Document you uploaded is not for Brgy Patino, rather it is of Brgy Opong.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "23dcc12e-fe00-4c18-bd45-a742d735",
+            "findings": "Please refer to page 7, reading of the resolution: Include the resolution to concur brgy. grant",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "51401057-0e23-4eef-87de-303eba79",
+            "findings": "no activity minutes form as prescribed by compendium. ",
+            "responsible_person": "jyliebulaybulay",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "f8806cbb-0cf1-42f2-bb3f-07160344",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "88c495e2-f302-42e2-9758-79b57b4e",
+            "findings": "Please recompute the \"percentage to population\". Based on their simplified project proposal, the total number of population in Amaga is 3,279. Therefore, the Percentage to population should have been (in the same order): 2.38%; 1.83%; 3.17%; 5.96%; 0%; 1.98%. Change also the percentage total accordingly.\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.\r\n",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9bfe5ba5-fd96-45ab-90ed-c89f888b",
+            "findings": "Document you uploaded is not for Brgy Patino, rather it is of Brgy Opong.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "e2a37035-bf27-455e-8c82-8daf6995",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "9cf02fa3-1474-4e1b-b216-e99e4853",
+            "findings": "No data in Cycle field. Please don't forget",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "87bed6fb-5bb1-4c9d-90a9-d818b249",
+            "findings": "Please refer to the last page. subtotal for female should be 4, not 6. ",
+            "responsible_person": "burtobedencio",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0ef98f5e-be25-4e69-a9a9-e7c0e7ce",
+            "findings": "2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "c256970d-0f43-4537-b1f3-875a1476",
+            "findings": "For the document to be more formal, please include in the heading the logo of the barangay",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "781e42fa-7e37-4609-93fc-5eba1777",
+            "findings": "Please recompute the \"percentage to population\". Based on the narrative minutes, the total number of population in Cabacungan is 1,549. Therefore, the Percentage to population should have been (in the same order): 2.45%; 2.58%; 46.29%; 11.17%; 0%; 0.45%\r\n\r\nJust inform me should these numbers already corrected. \r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7195ee66-d40f-4308-b9db-85697dd4",
+            "findings": "Please emphasize in the Title: 1st BDRRMC Meeting",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f303675a-d33b-4bb0-89ff-287340ed",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "1f657cb2-ac5f-4584-ba7d-22cef48a",
+            "findings": "This is narrative minutes. Please, use the activity minutes form,",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "63bdc2e2-4e6d-4e9a-a07b-a67f1cb0",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "486fce4e-a253-434d-89bc-34b37e5e",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fc67e3d7-85ed-4bb0-af44-8f90eb83",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0d79dd84-a269-47b4-a959-c6fc93bd",
+            "findings": "Contained in the documents are resolutions, not the narrative minutes. The narrative minutes should substantially present what were discussed according to the agenda of the meeting. Kindly revise this.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1f22a7fe-2b92-49c1-b5ca-67a0b6b3",
+            "findings": "It would be better if the document is in its bisaya translation because there are too many grammatical errors.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "54ab678e-55d5-464e-8617-60d474bf",
+            "findings": "CDD Committee membership of the attendees?\r\n",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c045f9b7-00af-47d0-9a06-4478ec56",
+            "findings": "Please re-scanned kay putol ang sa ubos. salamat",
+            "responsible_person": "rohaidahassan",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Eduardo B. Ating\r\n>No start date of being member of O and M",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "f7ed5d1a-3a6c-494a-96f5-f10f8efb",
+            "findings": "Should include in the agenda the resolutions\/EOs to be passed by the barangay in compliance with the requirements for DROM",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "303136cf-688e-4336-b185-8c4fb0a9",
+            "findings": "Should include in the composition the CEF and community volunteer\/s ",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fd65e95c-45e5-47db-991c-9fdec2d1",
+            "findings": "For the document to be more formal, please include in the heading the logo of the barangay",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b095e1e9-2719-4b9d-9d01-ae89e64e",
+            "findings": "Kindly present the overall result of the RAAT in the narrative minutes. Refer to the RAAT for Brgy. Cayawan",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b6d079e4-3503-44eb-a858-df1ed384",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "2c9e9a92-b828-4287-aad1-a60a78c0",
+            "findings": "Please refer to the male female columns: Do not put check marks. indicate the number of male and\/or female SP benes within the household. The same with the IP, Pantawid, SLP columns. ",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "84f9b069-f506-408a-8b94-d40acae4",
+            "findings": "Might as well include in the corrections: capitalize the \"Bahi\" in the 4th whereas clause.\r\nAlso, that should be \"Be it resolved, as it hereby resolved\". Remove the \"be it\" in the last line of the \"Now therefore\" paragraph.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f866ae09-1736-454b-bc8c-df20d1ef",
+            "findings": "Please refer to the highlights: Based on the result of the RAAT, the priority need of Brgy. Pili was the Cash for work having the highest percentage at 13.61 (see RAAT of Pili)",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8c3a8e33-61ee-4508-b272-4d0be152",
+            "findings": "Improve the substance of the narrative minutes. For example, the orientation on DROM\/P, which is one of the agenda based on the activity minutes form, was not discussed in this document. It should provide here discussions based on the listed agenda of the BDRRMC meeting. Also indicate in the concluding part of the document the time when the meeting was ended. ",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1f22a7fe-2b92-49c1-b5ca-67a0b6b3",
+            "findings": "The agenda in the narrative minutes are not consistent with the agenda presented in the activity minutes form",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "21966392-984a-44ac-9f66-fe86a5d1",
+            "findings": "Duplicate, please upload Activity Minutes form",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "323ecefe-d118-4619-8424-726d7616",
+            "findings": "1.) If a resolution is about the activation of a committee, it is a must to at least mention the composition and the names of the committee members. In this specific resolution, the GRS committee. Please indicate all the GRS committee members.\r\n\r\n2.) your list of signatories should form part of the body of the resolution. it appears in the document that these signatories were intentionally placed in the second page. move the 7th-9th clauses or paragraphs to the second page so that the resolution would appear as a one whole document.\r\n\r\n3.) No signature of SK Chairperson",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "a605d6f6-cacb-4434-b95a-17e31df6",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "b965c8a6-49b7-4b4c-aee1-180c4b33",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ab320fb9-ff9b-4bf4-8d9e-114a4d87",
+            "findings": "Please right\/ reflect total population in the Barangay below.\r\n\r\nThank You!",
+            "responsible_person": "",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "405f4d6b-4eb8-439d-8da0-4b2784de",
+            "findings": "Section 2 (composition) should indicate specifically the names of the GRS committee members (i.e. the name of the Chair and 2 members)",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ac3114d5-ac56-4c45-b8f8-3ab191d2",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.\r\n\r\n",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "38d87f03-c0b7-472e-bb8e-3fe96a1c",
+            "findings": "Should include in the agenda the orientation on the DROM\/P; resolutions to be passed by the barangay.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9f9c36aa-367f-46f7-865b-88568ef9",
+            "findings": "NO CYCLE indicated",
+            "responsible_person": "",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "a97cd98f-1633-43ad-9ece-d536dea2",
+            "findings": "Refer to the second whereas clause. Sentence is incomplete (third line of the second page).",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "379cf74f-8494-4826-8a61-ace4220e",
+            "findings": "Please indicate the signatories of the document (prepared by and approved by).",
+            "responsible_person": "jennelyncaba",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e9f34f8f-e0a3-4817-ade1-55a92f06",
+            "findings": "Please use the prescribed form and format for the activity minutes",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "54ab678e-55d5-464e-8617-60d474bf",
+            "findings": "Please indicate either Y\/N in the \"M\/BLGU official? \" column in each attendee.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c2ca5afe-d3d4-468f-9163-1d70eb30",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Tinago ...\"\r\n\r\n",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8117f718-4ab8-4ba3-ba49-c374ad06",
+            "findings": "Please recompute the \"percentage to population\". Based on the narrative minutes, the total number of population in Causwagan is 589. Therefore, the Percentage to population should have been (in the same order): 0.51%; 2.04%; 24.11%; 3.40%; 0%; 0.51%\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.\r\n\r\nJust inform me should these numbers already corrected.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f2cf6d6b-d3f2-478b-b71e-b2d85773",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "4c3a8a99-97cb-49b8-84f5-ea89396d",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.\r\n\r\n",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "ab320fb9-ff9b-4bf4-8d9e-114a4d87",
+            "findings": "In computing the percentage to population, please ensure that these 152 individuals must be the actual population in Brgy. Cayetano. \r\n\r\nPlease upload updated Barangay profile. Hence, based form the NCDDP Barangay Profile, the total population encoded were 588. Please upload revised RAT ASAP. Thank You!",
+            "responsible_person": "rohaidahassan",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "ba1b827f-65f7-4668-8db6-96427233",
+            "findings": "Please correct the data in the column \"percentage to population\" in page number 4. Based on the narrative minutes, the total number of population in Cabacungan is 1,549. Therefore, the Percentage to population should have been (in the same order): 2.45%; 2.58%; 46.29%; 11.17%; 0%; 0.45%\r\n\r\nJust inform me should these numbers already corrected.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "aef46ae8-a307-471f-896f-afc9d58c",
+            "findings": "Based on the attendance sheet, there were 10 male and 10 female attendees",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "84d25a54-c0b1-4fd0-a003-f1883223",
+            "findings": "1. Review process is affected with the watermark. C\r\n\r\nREquest: can we request the team to resend clean document.. thank you",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "ec03297d-d072-4ef2-94dc-e7c830a6",
+            "findings": "Please don't forget to include the barangay name in your title. \r\n\r\nEx. Barangay Coring Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "4ec7e8a3-b4f4-4d63-a680-b1eb0710",
+            "findings": "please re-scan. daku ra kaayo ang watermark. mas daku pa sa content sa document.",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "leizer dumagan"
+        },
+        {
+            "fk_file_guid": "85ef3042-e8b8-4e61-bf07-a3377ba0",
+            "findings": "Based on the attendance sheet, there were 11 Male and 8 Female attendees",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b357f05d-c9a3-4640-88a6-5c590453",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "3ea3837e-a5f6-4607-86ab-59443df3",
+            "findings": "> 3rd column of the SUB-PROJECT'S HOUSEHOLD BENEFICIARIES is asking for         \" # of SP Beneficiaries within the HH\", however data only captures  1  member of the Household. Failed to capture the    number of beneficiaries within the household level.\r\n\r\nNote: This finding will be shared to NPMO for this form: Compendium Form CDD A-08 has been approved already at the National level. Need to enhance this form too, to capture other information... ",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "acf40cb6-2639-4798-b46f-500b01ee",
+            "findings": "Should include in the agenda the resolutions\/EOs to be passed by the barangay in compliance with the requirements for DROM",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8632706d-4e69-4932-8188-faa917b2",
+            "findings": "Based on the Attendance Sheet, there are no BLGU officials present during the conduct of the BDRRMC, since column for M\/BLGU official are all marked N or NO",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Patricio Perez\r\n> no reflected date for the start of being AIT member",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "4b3c7c80-8440-4d67-8fec-c4b96e0f",
+            "findings": "Wrong Province, Placer is Surigao del Norte.",
+            "responsible_person": "angelinesalim",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "d0d59658-8f86-413a-8985-bad175b6",
+            "findings": "Indicate the Municipality and Barangay name in the header",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e18ad680-8f08-45a7-a882-3617cc0b",
+            "findings": "Based on the attendance sheet, there were 21 attendees of the 1st BDRRMC meeting (5 Males and 16 Females)",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9f76f9ba-a5f0-4180-a8cc-32b01a1f",
+            "findings": "Please indicate the Municipality and the Barangay at the header.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "da56d645-39fa-438a-846c-1e33ef5a",
+            "findings": "Please re-upload correct RAT Analysis. Thank You!",
+            "responsible_person": "marianluib",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "f9aaee83-71b8-42a3-adda-bbb92b71",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4f38d9b0-eefd-4ad2-bb16-2800b186",
+            "findings": "Should use one language (i.e. if English, all contents should be written in the same language)",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1954643b-6e85-487a-a775-8b201634",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "18ac15f7-0f73-4a66-bc2c-8a805785",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1c58e7d4-fa7a-4977-abbe-62fe4091",
+            "findings": "For the document to be more formal, please include in the heading the logo of the barangay.",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ffb5aab0-eebb-45b8-90fe-117c81f7",
+            "findings": "Inconsistent with Attendance sheet.\r\nMale: 25\r\nFemale: 18\r\n\r\nPlease check other data.\r\n\r\n",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "a6d03f35-6783-4eaa-bfb6-c5128b70",
+            "findings": "Should include the discussion on the grant allocated for Brgy. Unidad, as presented during the MDRRMC meeting.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8a30d225-f357-407a-83e7-23aa4a15",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d40d725b-4ba2-4e88-aaef-a62d1ea6",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "1e18a057-f7f3-4ef2-8f5d-332f9126",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "aef46ae8-a307-471f-896f-afc9d58c",
+            "findings": "No. 4 should be the Highlights of the activity. Please provide highlights, to include discussion on the facilitation process, etc. Please use the prescribed activity minutes form format",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fe3b9ce1-f421-48da-9c8e-93334604",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "burtobedencio",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Edwin Awit\r\n>No entry if Pantawid PAmilya Beneficiary\r\n",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "66be0c40-898b-48c9-882b-ac2ec54c",
+            "findings": "You may remove the brgy logo watermark. The logo in the heading is already enough.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7195ee66-d40f-4308-b9db-85697dd4",
+            "findings": "Please indicate either Y\/N in the \"M\/BLGU official? \" column in each attendee.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "12e42eb3-7b90-413d-9dc4-67fffedf",
+            "findings": "GRS committee includes 1 chairperson, and 2 members",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9bb7d9db-d25f-4829-af60-cf77d557",
+            "findings": "Please remove the logo in the background so that the document will appear clear. It is also unnecessary to paste the logo in the background.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9245691a-6e7a-42c7-8bc1-ffcc483f",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a6e861b6-6bc2-4cea-9cab-db743377",
+            "findings": "The second grievance in the activity minutes form was not discussed in the narrative minutes",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8d9e3164-8a29-4670-a8d9-b6827c7b",
+            "findings": "Based on the attendance sheet, there were 27 Male and 22 Female attendees",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "85ef3042-e8b8-4e61-bf07-a3377ba0",
+            "findings": "Please provide more highlights of the activity (as prescribe, to include details of facilitation process, etc.). And please clearly identify which among the listed SP was approved by the Barangay.",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c8c81b4c-3ab4-4afe-8b09-bb7eb99c",
+            "findings": "Section 2 Composition: should include regular members of the BDRRMC (e.g. Brgy. Capt., Brgy. Kagawads, etc.). That should be committee, not chair (e.g. PIT Committee)",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0a3b35bd-d1ea-47bf-b6c4-f909e528",
+            "findings": "Please include in the PINCOs\/Grievance the issue raised by Hon. Avenida and Hon. Yurtas regarding the experience in the previous implementation (see page 4 of the narrative minutes)",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a5a83d80-37cc-4bb4-a079-08f23d03",
+            "findings": "For the document to be more formal, please include in the heading the logo of the barangay",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f2fc9d79-6012-433a-970b-75be2c45",
+            "findings": "Roles of the BDRRMC were not cited.\r\n\r\nBarangay logo?\r\n\r\nRefer to the last sentence. Should be \"4th day\" ",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "92eca967-b227-46f4-bc71-7c142f58",
+            "findings": "No date approved",
+            "responsible_person": "rohaidahassan",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "a9503b8f-6c67-4f75-8291-66336829",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "69e0e040-c538-4bc9-ab8e-7c9baadd",
+            "findings": "incomplete age in the attendance sheet",
+            "responsible_person": "gemaloulumile",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "7696c61e-1927-46c2-be7d-8ddad4e9",
+            "findings": "Please improve the highlights of the activity. As stated, should include details of facilitation process, etc. ",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "01767871-5186-435b-93c6-6a1c3e1e",
+            "findings": "Should include in the composition of the BDRRMC the CEF and community volunteer\/s or the BSPMCC.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "84f9b069-f506-408a-8b94-d40acae4",
+            "findings": "Please correct the spelling \"ADAPTONG\" in the resolution title. Change this into \"Adopting\"",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e42d9dcb-5eaa-497f-b38a-1cb629b1",
+            "findings": "No name  of Barangay",
+            "responsible_person": "rohaidahassan",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "4980c063-e0aa-4647-874c-07545f7a",
+            "findings": "Findings were already reflected in your supposed compliance. ",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "249a66e9-72e1-4f60-a0bb-b4a30b1f",
+            "findings": "Please upload a clearer copy. Remove the watermark in the background",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "66be0c40-898b-48c9-882b-ac2ec54c",
+            "findings": "GRS committee members should be community volunteers not the brgy. officials. These officials are only there to assist the committee in the resolution of grievances in the community",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "01767871-5186-435b-93c6-6a1c3e1e",
+            "findings": "Might as well Improve the content since this is a formal document:\r\na. Remove space after the third whereas clause and after section 1.\r\nb. remove unnecessary writings\/notes in the second page\r\nc. correct the alignment in the heading as well as in the EO title.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "274f6bb6-8edd-4153-aacc-c3c41ef5",
+            "findings": "Please refer to the \"Be it resolved\" clause. The amount concurred was not indicated. Take note that one of the purpose of the resolution is for the barangay to concur the grant allotted to them.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "898c2a3b-4ec8-4aee-8067-5ee12d58",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "burtobedencio",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "207614cb-ce5c-4c53-8052-0caec849",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d53afdf6-05cf-4b34-a4a6-44e14695",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "cd764900-635d-4b42-bcad-673220d0",
+            "findings": "Refer to 6th whereas clause: No GRS committee members indicated.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e21ceb4b-04ac-49fc-9935-f5925dcc",
+            "findings": "No title of the document.\r\n\r\nPlease don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "379cf74f-8494-4826-8a61-ace4220e",
+            "findings": "Grievance indicated in the activity minutes was not discussed in the narrative minutes.\r\n\r\n",
+            "responsible_person": "jennelyncaba",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9d5520f7-199b-4ce0-b55a-eca0633f",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "64e4beed-a695-40a3-958a-44ced93c",
+            "findings": "Name of the CEF or MCEF was not included in the list of members of BDRRMC, as provided in Section 2 Composition.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "17be551f-07b2-45d2-8501-845d0d05",
+            "findings": "Might as well indicate in the lower portion of the table the total number of the population.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "dbfb1461-9857-48d4-afdb-69451f51",
+            "findings": "For the document to be more formal, please include in the heading the logo of the barangay",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a25c4bf5-f596-4c15-918e-3de2193e",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain. \r\n",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e4348dc1-7325-4971-af46-159d8a46",
+            "findings": "Please include in your agenda the passing of different resolutions reflected in your minutes narrative. ",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "0",
+            "added_by": "Jam Morales"
+        },
+        {
+            "fk_file_guid": "af3b5f38-7f2b-4e95-8501-f3f8de61",
+            "findings": "Section 3 Roles of the BDRRMC were not stipulated.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "75501d62-e7e3-4468-8b1e-867020bb",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3177ace4-757e-45b1-9ae5-241b6065",
+            "findings": "was the Brgy. Situationer not presented in the meeting?\r\n",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0d21319c-5461-472a-8e03-92011b54",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c88c8113-e61a-480c-98c1-87a1cf63",
+            "findings": "Please refer to page 7, other matters: What was the query of Ms. Macana?",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4df85b03-fd8e-4bd2-ab73-4f8a974d",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1f22a7fe-2b92-49c1-b5ca-67a0b6b3",
+            "findings": "Grievance\/PINCOs presented in the activity minutes form were not discussed in the narrative minutes.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "36c1dd9a-fdce-4453-95c7-4dfb5fde",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "8541c53a-faa3-4b0f-8577-f67e59c8",
+            "findings": "Please refer to page 6: As stated, the identified proposed SP of Masgad was the Construction of Isolation Facility. But the SP of Masgad is the Retrofitting of Brgy Hall. Please update accordingly.",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "18ac15f7-0f73-4a66-bc2c-8a805785",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a9fdb309-59ea-4e8f-bcf3-24cffd5d",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "541a1e2f-544a-46aa-87ff-b415fa3a",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Can-aga ...\"",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b621ebe3-f51b-45d6-a01e-00484038",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7788f36f-f6b0-4b2b-aed3-d0951186",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "5006ac30-3be8-44df-8322-e074c4db",
+            "findings": "Please re-upload correct RAT Analysis.\r\n\r\nThank You!",
+            "responsible_person": "lizelviecapin",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "fefafd15-3cd5-4ae3-80fa-7cb5aa69",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3f742c74-bdf0-4458-80cf-4d0fe7b9",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "720d4382-fd1e-4cae-927c-36fe1c87",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "f9150352-aae3-4333-9931-890643c2",
+            "findings": "Please indicate in the title: 1st BDRRMC Meeting",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b6186b0a-c568-4c32-9a27-4a8782a0",
+            "findings": "For the document to be more formal, please include the logo of the barangay.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "72970657-3b71-4e37-806a-1bd2c976",
+            "findings": "Should cite also in the composition the regular members of BDRRMC (e.g. the Brgy. Captain and Brgy. Kagawads). \r\n\r\nIt should be Committee, not chair (e.g. PIT Committee)\r\n\r\nWhy the parenthesis in BAC committee?",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "541a1e2f-544a-46aa-87ff-b415fa3a",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e9e9db1a-2e1d-47d8-9d90-e28b177a",
+            "findings": "Please remove the logo of the barangay in the background. It is unnecessary and only make the document hard to read.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "dbfb1461-9857-48d4-afdb-69451f51",
+            "findings": "Upload the notarized resolution.",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0b1c6345-1ebf-46a9-8eb2-7a369f5f",
+            "findings": "Province is wrong, Placer is in Surigao del Norte. Please be mindful in copy pasting documents next time.\r\n",
+            "responsible_person": "rodneymanigo",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "51896d7a-b950-4e74-beb2-50a4eb32",
+            "findings": "This is not a narrative minutes. Should substantiate what were discussed according to the agenda of the BDRRMC meeting.\r\n\r\nAlso, just remove the logo mark in the background for the document to be more readable. ",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0ef98f5e-be25-4e69-a9a9-e7c0e7ce",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "05de2110-9fc7-4fc3-bc34-bc71429d",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n\r\n",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6be2a305-b029-43ab-b4a9-39664e0f",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "66a6f9e9-f63f-4a41-9729-bf03c0c1",
+            "findings": "PPT Committee should also be included.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "a2cf2d25-632b-4019-9b08-2634168e",
+            "findings": "Please include in the Title: 1st BDRRMC Meeting",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b0ef1361-cfff-4f6a-8ff0-4e0e2b04",
+            "findings": "Next time please enhance making narrative minutes.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "0",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "ce1ae468-67d4-46f8-9d97-90108d8b",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "c6f973be-6831-4114-9f64-1b554bc9",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "b18c3aec-9754-48be-a74c-7c747753",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1db25fcc-2dee-42be-b8ec-c063be4b",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "898c2a3b-4ec8-4aee-8067-5ee12d58",
+            "findings": "For the document to be more formal, please include the logo of the barangay in the heading.",
+            "responsible_person": "burtobedencio",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "763ec17d-bffa-4335-a63f-68e564f4",
+            "findings": "Kindly upload a clearer copy of the attendance sheet, esp. in pages 3-4",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "70a19663-f9c3-4014-9c2f-cff97795",
+            "findings": "1.) Your list of signatories should form part of the body of the resolution. it appears in the document that these signatories were intentionally placed in the second page. move the 7th-9th clauses or paragraphs to the second page so that the resolution would appear as a one whole document.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Elma Tumarlos\r\n>No entry on some items\r\n",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "2d87021e-e8b6-4942-81a2-7dc56a83",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nAlso, Ayaw i-slant pagka picture. Make it centered para maklaro ang text.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "f866ae09-1736-454b-bc8c-df20d1ef",
+            "findings": "Total HH represented?",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b32f4f5c-aed1-4060-9386-c374befa",
+            "findings": "Do not include the definition of GRS in the Section 3 of the EO because it pertains only on the Roles and Functions of the Municipal GRS committee",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f7894595-710a-437b-a89b-6fe48791",
+            "findings": "Present the highlights of the activity in number 4",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ae8604f8-99de-4fcc-948d-4dc4c248",
+            "findings": "* Narrative Minutes failed to capture discussion point on BDRRMC Resolution adopting KC Community volunteers and CEF;\r\n* Minutes was not  able to capture \"the motion to close\" the meeting. ",
+            "responsible_person": "burtobedencio",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "05de2110-9fc7-4fc3-bc34-bc71429d",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Villa RIza ...\"",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "275c749c-0e22-426e-880e-c1f6a943",
+            "findings": "There is no \"Resolved\" clause to be written before the resolved further clause.\r\n\r\nShould write: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Hanagdong ...\"",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a6296db8-8576-488f-ab8e-da6ba506",
+            "findings": "Please substantiate and improve the narrative minutes. It should discuss most especially the agenda presented in the activity minutes form, to wit: Orientation on KC-NCDDP; Orientation on DROP; Presentation of Barobo cycle 4 budget; Brgy. Wakat grant; and Discussion on GRS and election of GRS volunteers",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0bd71f56-9f2d-4543-beb2-573f083b",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c0d2aa33-1377-4d2d-a913-690ec555",
+            "findings": "No. of female attendees did not match in the attendance sheet. Please check also the other needed data.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "f2a0041a-cf3a-4e86-9731-6f746773",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1af6e750-6263-4755-8317-039ed9ee",
+            "findings": "(refer to sec 2) the composition\/members of the BDRRMC were cited in section 3. Section 3 should stipulate the roles of the BDRRMC, not the members of the council.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "33e1b329-67fa-4632-90ef-4ca07760",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Isidro ...\"",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f7188938-7127-4eeb-a3b1-d7021f98",
+            "findings": "(refer to Section 1) Name of the Area Coordinator  was not included in the reorganized MDRRMC",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "17fdbed1-d1ea-4e31-917d-ed02f3db",
+            "findings": "The proposal is good. simple and  clearly states the problem and the need to address the problem.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "dcd4cf5d-bf94-437e-baf7-76081d98",
+            "findings": "Attendees have the same penmanship",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "5b9b67e7-5bd9-48a9-92e4-5ddea36b",
+            "findings": "Please provide more highlights of the activity (as prescribe, to include details of facilitation process, etc.)\r\n\r\n",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9bb7d9db-d25f-4829-af60-cf77d557",
+            "findings": "Please adjust some paragraphs in the first page down to the second page so that the resolution will appear as one whole document. Do not separate the signatories from the very body of the resolution.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "342d97f0-a872-401e-9e5b-c9421248",
+            "findings": "What are the sustainability mechanisms of the project?",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0490fa89-877b-4b74-a51e-de0bda80",
+            "findings": "Please recompute the \"percentage to population\". The percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Please refer to the formula I emailed.\r\n\r\nIndicate also the total number of population in the lower portion of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1c58e7d4-fa7a-4977-abbe-62fe4091",
+            "findings": "Please upload the notarized resolution",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "75ea0ff9-4823-4d34-8f9f-5f1301c3",
+            "findings": "Please emphasize in the title: 1st BDRRMC Meeting",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of estela Veloso\r\n>No entry if IP",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "62185a7f-95ba-49ca-ad8f-b0f8d207",
+            "findings": "Please indicate in the title: \r\n1st BDRRMC Meeting",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8bb02386-e65f-4879-836e-f6eb4e77",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "93dce5a8-92dc-4eec-91ea-4b6e7f24",
+            "findings": "Please refer to page 3: Should be \"Modified Community Empowerment (not Enhance) Activity Cycle\"",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "880ff351-2812-45e3-b4bb-a14cdd61",
+            "findings": "It is presented here that the primary need was the Retrofitting project. However, based on the RAAT, the priority for Brgy. Cantapoy should have been Cash Assistance since it has the highest percentage. Please present in the narrative minutes the result of the RAAT.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Sofronia Candelaza\r\n> no entry on some part of the CV Form\r\n>No position in membership in Other Organization",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "72ef67da-597c-43c4-8020-58e418c8",
+            "findings": "No signature of the Area Coordinator",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fd46bbed-c67d-49e2-b1ad-f7bf9e05",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8c044cca-4a61-4802-8923-d2cb5b9f",
+            "findings": "You may leave blank the total percentage to population",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "aef46ae8-a307-471f-896f-afc9d58c",
+            "findings": "Please provide the agenda of the meeting",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f7ed5d1a-3a6c-494a-96f5-f10f8efb",
+            "findings": "Based on the attendance sheet, there were 7 male and 5 female attendees",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1954643b-6e85-487a-a775-8b201634",
+            "findings": "Upload the notarized resolution ",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d4a44808-cf1d-423c-8cfd-0431e79e",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain. ",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7b1f5964-5ce9-42ed-b5f2-6f92c1e5",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a6e861b6-6bc2-4cea-9cab-db743377",
+            "findings": "Please upload a clearer copy especially the last page",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "053511e4-9fe5-41f2-84fa-1ff54aa0",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain. \r\n\r\n",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "85a3a985-5b33-41c6-bbe4-e0b75191",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e9e9db1a-2e1d-47d8-9d90-e28b177a",
+            "findings": "Please Remove those inserted pictures. Narrate the details or discussions on DROP during the meeting instead.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a3d78edd-c702-40c5-adce-db2cbe3b",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "f5818f84-0e72-4b8c-91cf-6a006543",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ccffef71-9695-48b2-a8ca-7bead769",
+            "findings": "Document you uploaded is not for Brgy Patino, rather it is of Brgy Opong.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "ae8604f8-99de-4fcc-948d-4dc4c248",
+            "findings": "Recompute the percentage to population accordingly in the table in page 4. Follow the correct computation as already cited in other document.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0a3b35bd-d1ea-47bf-b6c4-f909e528",
+            "findings": "Please indicate total HH represented",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7b788b71-deac-44b7-a740-485345d0",
+            "findings": "1.) If a resolution is about the activation of a committee, it is a must to at least mention the composition and the names of the committee members. In this specific resolution, the GRS committee. Please indicate all the GRS committee members.\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "eeab16ba-cd4d-475e-9867-248a6c8a",
+            "findings": "Please put in the title \"1st\" BDRRMC Meeting",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "cf62849b-94a6-4758-9bde-2e768964",
+            "findings": "Please refer to page 3. Subtotal for Male attendees is 5",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "37f64acb-e0dd-4242-8dbd-7f2b84e7",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker. You can leave blank the total percentage to population.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "cbb0fb6a-57ce-422c-bf76-b03f0876",
+            "findings": "Please edit the province.\r\n",
+            "responsible_person": "rodneymanigo",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "7be0420b-621d-424f-a029-82d72b05",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker. You can leave blank the total percentage to population.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a5a83d80-37cc-4bb4-a079-08f23d03",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3204d0d5-b45a-4067-a82e-2124a57a",
+            "findings": "Narrative minutes is from Brgy. Mabini,not for Brgy Amoslog,",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "800b9611-68ed-4638-8ab6-2dd712e5",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.\r\n\r\n",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a37ecc41-c7f3-4e30-8dbc-859a9d72",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Pili...\"",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "87caa1ec-962c-431c-bab6-709fe2b5",
+            "findings": "Please provide more details because this is a narrative minutes. Based on the activity minutes form, part of the agenda are: (1) orientation on KC-NCDDP; (2) Orientation on DROM\/P; (3) Presentation of Barobo cycle4 budget; (4) Brgy. Dapdap grant; (5) Discussion on GRS and election of volunteers. But these were either not reflected or were not substantially discussed in the narrative minutes. A 2-page narrative minutes is insufficient. Please be reminded that minutes of meeting is used as reference in drafting brgy. resolutions therefore it should be substantiated. ",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d48debf1-ee9a-4a9b-b109-7d7219ba",
+            "findings": "Total number of persons affected should be 26 not 24.\r\nAlso check row one vs percentage to population. ",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "fefafd15-3cd5-4ae3-80fa-7cb5aa69",
+            "findings": "For the document to be more formal, please include the logo of the barangay",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "86034174-e901-4972-919f-258f99bb",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "763ec17d-bffa-4335-a63f-68e564f4",
+            "findings": "How about the CDD Committee membership of other attendees?",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6f18f870-0f8a-4f49-85aa-41ceca7a",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fd46bbed-c67d-49e2-b1ad-f7bf9e05",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "7f6a5522-6581-43c0-90b5-949ad6f0",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "2668ac7e-b0f3-4f11-8a7b-400e85a8",
+            "findings": "No signature of Regional Director and ARD for Operations.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "b095e1e9-2719-4b9d-9d01-ae89e64e",
+            "findings": "Refer to page 3, letter D (2): Please present clearly the grant allocation of Brgy. Cayawan ",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3d61591d-7f7a-46dc-9bb4-c353516a",
+            "findings": "Presentation of the Brgy grant allocation?\r\n\r\nPlease refer to the reading of BDRRMC resolutions: Include resolution adopting DROM and concurrence of brgy. grant",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a37ecc41-c7f3-4e30-8dbc-859a9d72",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4b3c7c80-8440-4d67-8fec-c4b96e0f",
+            "findings": "Be mindful in copy pasting documents, review everything first submitting. ",
+            "responsible_person": "angelinesalim",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "bc49043b-e772-4f71-aa69-239f7a83",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain. Please Remove also the \"I hereby certify...resolution\" sentence.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "071cf84f-4304-4871-9d51-809eb93d",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "0fd74a02-15fa-4149-83c3-b3c2cf23",
+            "findings": "Attached form is on the constitution of the BAC",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "089dc2b1-d82f-456d-8a45-633d26c2",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "2d161f9e-c3ce-47c1-8ceb-da7c5a30",
+            "findings": "Refer to \"Resolved, as it hereby Resolved\" clause: Should be \"to activate\", not \"to active\"",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a6e861b6-6bc2-4cea-9cab-db743377",
+            "findings": "Please refer to the last page: Include the resolution on the concurrence of Brgy. grant",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b90b69b1-0d7b-4647-98e0-887b4420",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "800b9611-68ed-4638-8ab6-2dd712e5",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain. Please Remove also the \"I hereby certify...resolution\" sentence.\r\n",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e7e482ea-0285-4a1b-a155-33f79009",
+            "findings": "For the document to be more formal, include the logo of the barangay in the heading.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d21282ab-67d1-4014-9fcd-3aac4394",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "758515ec-02ea-489c-87e4-8c2bce5e",
+            "findings": "Based on the attendance sheet, there were 34 Male and 46 Female attendees of the activity",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d0d59658-8f86-413a-8985-bad175b6",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.\r\n\r\nChange also the total percentage to population",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c88c8113-e61a-480c-98c1-87a1cf63",
+            "findings": "Please refer to page 7: As discussed, the identified proposed SP of Tinago was the Construction of Isolation Facility. But the SP of Tinago is the Retrofitting of Brgy Multi-purpose Gym. Please include the discussion on the reasons for opting to the Retrofitting project.",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d3c3c094-2db0-4e5a-b344-1f318f6b",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain. Please Remove also the \"I hereby certify...resolution\" sentence.\r\n\r\n",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1b4cc637-af6d-47a3-88b0-d0b253ca",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "cbda3fc2-8f2e-41b5-923e-3730a93e",
+            "findings": "Should include in the composition the CEF and community volunteer\/s aside from the regular members of the BDRRMC.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c5ef699b-5054-40eb-9239-263600e2",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a843c27f-2aa3-43c1-b2f2-83180ed2",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "cbda3fc2-8f2e-41b5-923e-3730a93e",
+            "findings": "Section 1 should be reconstitution or reorganization. \r\nSection 2 will reflect the BDRRMC composition",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4d545d18-0fc4-4609-9cb7-63011b7b",
+            "findings": "The image of the GRS tarp posted is in Brgy. Pili, Malimono",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4ec7e8a3-b4f4-4d63-a680-b1eb0710",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1c09e5c7-d701-4f47-aecb-533f7044",
+            "findings": "Please include in the PINCOs and\/or Grievance the query raised by the BSPMC chair (see other matters of the Narrative minutes)",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e5802abb-0193-4c42-935b-256ddbe4",
+            "findings": "Some of the attendees have not signed their signature.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "d26b968f-a823-4a0e-9915-8c09278a",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "2ba0fdac-63ef-4baa-82af-e63db868",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "33efaa70-9528-498c-9f23-e9392e8d",
+            "findings": "Please indicate the names of elected GRS members in the reso.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "1adb0643-fec1-40ca-bd88-65e31ce1",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "30401faa-5e29-4367-a6d1-41869cf2",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "880ff351-2812-45e3-b4bb-a14cdd61",
+            "findings": "The PINCOs\/Grievance stated in the Activity Minutes Form were not discussed in the Narrative Minutes.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "01d9fd80-3560-4545-a4bb-802eaad9",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "17be551f-07b2-45d2-8501-845d0d05",
+            "findings": "Please recompute the \"percentage to population\". The percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.  Please refer to the formula I emailed.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c2db13d9-d2e6-4994-b746-9055f730",
+            "findings": "Please don't forget to include the barangay name in your title. \r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "0",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "23237250-1ca6-42b1-9d14-1b642c5a",
+            "findings": "Please add a Whereas clause about the KC-NCDDP adopting the DROM\/P in response to the Covid-19 pandemic. Refer to the resolution of other barangays",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c476ce60-0f9e-4fc3-958d-31ad6868",
+            "findings": "# of families within the HH in Purok 1...please verify the # of families within the HH of Montalban and Villacorta.  2 or 3 families in just 2 or 4 individuals in the HH? ",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "0",
+            "added_by": "Amor Oquias"
+        },
+        {
+            "fk_file_guid": "b32f4f5c-aed1-4060-9386-c374befa",
+            "findings": "(refer to Section 2) Include in the composition: Area Coordinator as the Grievance Monitor",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3c28f998-a3f4-4be4-8d10-50f18219",
+            "findings": "Please refer to page 7: Include the resolution adopting DROM\/P and concurrence of Brgy. grant",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "193a8ec2-05d0-4f51-b597-846b515e",
+            "findings": "No data entry in no.2 Attendance.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "1ed651bc-0de0-42eb-b306-5aad4007",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af3b5f38-7f2b-4e95-8501-f3f8de61",
+            "findings": "Name of the CEF was not included in the composition. ",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "19daaf17-b59c-46f1-98d7-5df5482a",
+            "findings": "In row one  vs percentage to population is computed base on total population in brgy edera which is 1087 therefore 29\/1087 * 100 = 2.66% only please check other inputs as well.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "ec0bd2f1-73ff-4598-bbd8-1f589850",
+            "findings": "In row three vs percentage to population should be 2.72% only not 27.2% as well as in the total below. ",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "8c044cca-4a61-4802-8923-d2cb5b9f",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.\r\n\r\nAlso, just remove the logo in the document.\r\n",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "77bb0a4e-6220-4f93-837f-1eb0390a",
+            "findings": "Improve the document since this is a formal document:\r\n\r\na. do not put space between the resolution no and series of 2020\r\nb. ensure correct alignment of the resolution title\r\nc. Be it resolved, as it hereby resolved to reactivate the barangay GRS committee \r\nd. remove 3rd page so that \"resolved further\" clause is integrated in the body of the resolution.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fd65e95c-45e5-47db-991c-9fdec2d1",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6ef93278-cf62-444f-9b99-2051c502",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "04572ee5-0036-4a29-bfec-1744e14b",
+            "findings": "Please next time organize the document properly such that there would be enough space for the signatory. You can move the last two or three paragraphs in the second page to be included in the signatories. Note that this is a formal document.\r\n\r\nAlso, why are there no signatures in other signatories?",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3bda2da4-1d52-41be-ab6a-204024a3",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "burtobedencio",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "379cf74f-8494-4826-8a61-ace4220e",
+            "findings": "Data in page 6 are not consistent with the data indicated in RDANA tool.",
+            "responsible_person": "jennelyncaba",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "70938812-be5c-484d-9362-ba9f7c38",
+            "findings": "Include in the agenda: Presentation of resolution and other pertinent documents",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3177ace4-757e-45b1-9ae5-241b6065",
+            "findings": "Based on the attendance sheet, there were 13 male and 7 female attendees",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Edwin Awit\r\n>No entry if Pantawid PAmilya Beneficiary\r\n",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "1e18a057-f7f3-4ef2-8f5d-332f9126",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b38620b1-ad43-40f9-b1de-a1ce2183",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker. You can leave blank the total percentage to population.\r\n\r\nYou can also improve the document by presenting data in their encoded form.\r\n\r\n",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "70bb45d1-c1a3-4066-b6d5-5e113844",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6ae4b145-60d9-4230-bbd6-2d73fc02",
+            "findings": "Based on the attendance sheet, there were 13 female and 8 Male attendees.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0ca3e2bf-aa4d-4784-9717-a0f599cc",
+            "findings": "Please include in the title:\r\n1st BDRRMC Meeting",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bbe2256f-1516-4806-9624-c164ebe1",
+            "findings": "No resolution signatories",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c7060cfc-6150-4b0a-ad6a-eab3d9bd",
+            "findings": "Kindly provide more highlights of the activity. (as prescribe, to include details of facilitation process, etc.)",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "475f1d8e-e5d9-495b-9fbd-4f4ed2e0",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9f76f9ba-a5f0-4180-a8cc-32b01a1f",
+            "findings": "Please recompute the \"percentage to population\". \r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "75b3bf9d-cee2-4d01-9772-d9ff7d15",
+            "findings": "Please emphasize in the title: 1st BDRRMC Meeting",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "17fdbed1-d1ea-4e31-917d-ed02f3db",
+            "findings": "Clarification: The sub-project did not mention about gardening since gardening will come-in if cleaning and de-clogging will be implemented ahead of time.  Since government fund still be used for gardening ( Cash for work budget), we need to secure as well the area intended for gardening, mention in the proposal that BLGU is willing to provide seeds\/seedlings and area is already available since it is a barangay-owned lot. \r\n\r\nThis is part of  safeguarding  CFW fund. if it will be used for other purposes aside from its intended purpose.\r\n\r\nBSPMC and BLGU should have a clear plan on this as well.Thank you..",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "f7ed5d1a-3a6c-494a-96f5-f10f8efb",
+            "findings": "Was there no presentation of the Brgy. Situationer during the Meeting?\r\n",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f7d0ae29-72cd-4522-888a-728e2a3b",
+            "findings": "Please be familiar with your area of assignment. Barobo is in  SDS not Barobo Surigao del Norte.  \r\n\r\nSome basic information not completely filled-up like sex, age, etc. \r\n\r\nRe-scan the document kay dili na mabasa ang uban tungod sa kadaku sa watermark.",
+            "responsible_person": "burtobedencio",
+            "is_checked": "0",
+            "added_by": "leizer dumagan"
+        },
+        {
+            "fk_file_guid": "d82d46e0-dede-4f3b-aa2a-ea5db25f",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Karihatag ...\"",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1beafb49-8160-4bb9-ad8b-8dffd829",
+            "findings": "For the document to be more formal, please include the logo of the barangay in the heading",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0e8120aa-c97f-4cb9-b999-acee47fb",
+            "findings": "Was there no presentation of the Brgy. Situationer?",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6f18f870-0f8a-4f49-85aa-41ceca7a",
+            "findings": "Please ensure that the watermark in the background is removed upon uploading.",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "5662311d-d4aa-4586-b506-ec68c95d",
+            "findings": "Please indicate, in its encoded format, the name of the barangay, municipality, and the province. Indicate also the total number of population for clear reference of the checker.\r\n\r\nYou can also improve the document by presenting data in their encoded form.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f9150352-aae3-4333-9931-890643c2",
+            "findings": "Please indicate either Y\/N in the \"M\/BLGU official? \" column in each attendee. ",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b18943f1-f2a8-47b2-a57d-a12e75cc",
+            "findings": "Please indicate in the reso the members of GRS committee",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "44e68dcd-c6d4-4c97-92bf-0a3a63a3",
+            "findings": "Please refer to page 5, reading of the resolution: Include the resolution to concur brgy. grant",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1beafb49-8160-4bb9-ad8b-8dffd829",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Profile of Arlene Veloso\r\n>No reflected Middle initial\r\n",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "fdd6bf8e-df1c-4c48-80f0-eddcd191",
+            "findings": "Please clarify.\r\n\r\nTotal should be 66 not 78?",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "5caea78f-52d2-4efa-b6ad-e229629e",
+            "findings": "Duplicate form uploaded. ",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Judith Awit\r\n> no reflected start date of being MIT member",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "16257168-ee23-4107-aa06-3cde6b14",
+            "findings": "In minutes attached some objective of the activities are not indicated in no.4 highlights of the activity. ",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "b3906233-29a4-49e0-bda2-630e557c",
+            "findings": "Please upload a clearer copy. Remove the watermark and the logo of the barangay in the background.",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bc49043b-e772-4f71-aa69-239f7a83",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ab320fb9-ff9b-4bf4-8d9e-114a4d87",
+            "findings": "In computing the percentage to population, please ensure that these 152 individuals must be the actual population in Brgy. Cayetano. \r\n\r\nPlease upload updated Barangay profile. Hence, based form the NCDDP Barangay Profile, the total population encoded were 588. Please upload revised RAT ASAP. Thank You!",
+            "responsible_person": "rohaidahassan",
+            "is_checked": "0",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "22f14989-5911-45e0-a3a8-d21c4ca7",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "227f57c3-4dc2-440e-a38a-88abaa2d",
+            "findings": "Please refer to Section 2. Should include in the composition the regular members of the BDRRMC which include the Brgy. Captain and Brgy. Kagawads, etc. \r\n\r\nWhat is with Team A? Are these barangays? Why are they included in the composition?",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "2c9e9a92-b828-4287-aad1-a60a78c0",
+            "findings": "Please use the prescribed form and format. Do not remove the heading in every pages. Please see the same document with other barangays.",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9245691a-6e7a-42c7-8bc1-ffcc483f",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c2ca5afe-d3d4-468f-9163-1d70eb30",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n\r\n",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "9f9c36aa-367f-46f7-865b-88568ef9",
+            "findings": "No cycle",
+            "responsible_person": "rohaidahassan",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "ed3a8dc8-0d2e-4463-8ca5-a466a7b1",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.\r\n\r\n2.) Please indicate what Municipality and Barangay is this Rapid Assessment and Analysis Tool, in the heading.\r\n\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "1e63ede3-2cec-41d7-8bda-fa945c13",
+            "findings": "Lacking data in the percentage to population",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Marilyn Limbing\r\n>no reflected date of start being CSPMC Chair",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "880ff351-2812-45e3-b4bb-a14cdd61",
+            "findings": "Please refer to page 2, letter D: Should be Brgy. Cantapoy, not Brgy. Cayawan.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8a8436f3-5905-4825-b96a-24d508de",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d4a44808-cf1d-423c-8cfd-0431e79e",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Jocelyn Balentos\r\n> No reflected start date of being O and M Chair, PIT Member, BRT Member CSPMC Secretary and CMT Member\r\n> During implementation, she hold 2 Position of being PIT Member and CSPMC Secretary\r\n> Previous Training attended (Non-KC) and Membership in pther Organization (Non-KC) were not filled-out",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "91815bc5-0ca3-4940-a475-14609430",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Where did you get the figure, 1, 372?\r\n\r\n3.) Please review the computation of each column,\r\n\r\n4.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "4e3aa773-0a6c-417e-a974-e064bbb4",
+            "findings": "Attendance uploaded is from Brgy. Mabini not from Brgy. Amoslog.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "4d5c6c9b-9a23-4dbe-9f01-82a65963",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d3c3c094-2db0-4e5a-b344-1f318f6b",
+            "findings": "Include in Section 1: Reconstitute the BDRRMC of the Barangay for the purpose of DROM\/P implementation of the KC-NCDDP.",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "efeb2083-e590-49ce-8029-bf91d871",
+            "findings": "> In the presentation of the Negative Condition, it seems that its not the community identifying the negative condition considering the word \"ilang\" that led to no ownership of the problem\r\n> On Agenda #2, the process of prioritizing the proposed sub-project was not presented well on how it was done\r\n> Is there an identification of CVs on this ICC Meeting?Please clarify.",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "75b3bf9d-cee2-4d01-9772-d9ff7d15",
+            "findings": "Please refer to the last page, subtotal for Male: Should be 3",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c9c28e24-d463-44b3-9986-e4f3fa9b",
+            "findings": "Please provide more highlights of the activity (as prescribe, to include details of facilitation process, etc.)",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8d3c69cb-a3c2-4f1c-b217-6c2fe3be",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "1eae17e9-3932-4d86-854b-fb7f239c",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title). \r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Cansayong ...\" ",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1a0fba66-5e28-4ab6-b9cb-0ef3ab95",
+            "findings": "Duplicate form uploaded",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "0",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "3177ace4-757e-45b1-9ae5-241b6065",
+            "findings": "Should include in the agenda the resolutions\/EOs to be passed by the barangay in compliance with the requirements for DROM",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6afb2583-e1b6-4a00-965d-3171f599",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "cb58158d-7716-4ba5-b522-2fa5d267",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "a3d65513-5a68-421c-bcc4-0772ef5c",
+            "findings": "Members of the GRS committee should be community volunteers.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bebba9a5-08d1-4364-8a31-2317b275",
+            "findings": "Refer to the column for # of SP beneficiaries within HH: Indicate the number of benes within the household, not just the head of the HH.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b6186b0a-c568-4c32-9a27-4a8782a0",
+            "findings": "Upload the notarized resolution.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f1117539-718f-4836-88e1-2ba194ab",
+            "findings": "1.) your list of signatories should form part of the body of the resolution. it appears in the document that these signatories were intentionally placed in the second page. Adjust some clauses or paragraphs  so that the resolution would appear as a one whole document.\r\n\r\n\r\n",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "276312cf-55fe-4d70-b345-647faf1b",
+            "findings": "BLANK FILES UPLOADED",
+            "responsible_person": "gemaloulumile",
+            "is_checked": "1",
+            "added_by": "lucy arpilleda"
+        },
+        {
+            "fk_file_guid": "21925cd9-b3af-4232-9e38-0a6c8c53",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8bed6abc-e374-4647-a0a4-3c71d3b7",
+            "findings": "Should include in the composition of the BDRRMC the CEF and the community volunteer\/s or the BSPMCC",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8a30d225-f357-407a-83e7-23aa4a15",
+            "findings": "Please refer to Section 5: Should be \"This Executive Order (not Resolution) shall take effect immediately.\"\r\n\r\nYou may remove the \"Resolve Further\" clause. This is not a resolution but an EO of the Brgy. Captain.",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b0578a9b-b4d1-495a-a111-cfd3487b",
+            "findings": "PINCOs\/Grievance in the Activity Minutes Form were not cited in the narrative minutes\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "58494afa-722e-4406-8d4c-56034414",
+            "findings": "Please recompute the \"percentage to population\". \r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Change also the percentage total accordingly. Please refer to the formula I emailed.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Sofronia Candelaza\r\n> no entry on some part of the CV Form\r\n>No position in membership in Other Organization",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "6dded892-9a78-43e0-9a2c-722eb592",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "cbb0fb6a-57ce-422c-bf76-b03f0876",
+            "findings": "Female count in the Attendance sheet is 12, but in Activity Minutes Form it is 14, which is which? Please update.",
+            "responsible_person": "rodneymanigo",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "21925cd9-b3af-4232-9e38-0a6c8c53",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Cayawan ...\"",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "f0c6bc5b-6d8d-46d7-abc0-85f0e346",
+            "findings": "Inconsistent number of HH Vs. Activity Minutes Form (In Brgy Profile # of IP is 11 HH but in Activity minutes Form is 15 HH)",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "24357f51-ba39-47d8-8e60-3d2a0e53",
+            "findings": "why were there no signatures from other signatories?",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "91af3356-2876-499d-bcba-662d1b24",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "39dcbeb2-ff2d-4777-a5ed-d46e4e9e",
+            "findings": "Might as well indicate in the lower portion of the table the total number of the population.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bb3c1393-f7b7-4e15-880f-1dcde1c0",
+            "findings": "Please put \"1st\" BDRRMC Meeting in the Title.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c256970d-0f43-4537-b1f3-875a1476",
+            "findings": "Upload the notarized resolution.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "580fe342-5ed9-459f-aa45-cbf5eb13",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100. Refer to the excel file I emailed to you.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "15d6d1f8-e8f2-4b96-bfed-7c7c3943",
+            "findings": "Amount is not the same in the title and in the body of the resolution;\r\n\r\nAlso incomplete signatures of the signatories;\r\n\r\nYou can remove the logo in the background for the document to be more readable. ",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "289fb75f-e28b-41e0-8648-3b42295a",
+            "findings": "Please include in the title: 1st BDRRMC Meeting.\r\n\r\nKindly upload a clearer copy.",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "6ce3b03c-5da3-4dd1-80c7-59a3a16d",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.\r\n\r\nIndicate also the total number of population in the lower part of the table for easy reference of the checker.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "275c749c-0e22-426e-880e-c1f6a943",
+            "findings": "It should reflect in the signatory the name of the Brgy. Secretary since this is a resolution. This should attested by the punong barangay and concurred by the other members of the Brgy. Council. Please refer to resolutions of other barangay.\r\n\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "abeeae6d-0c4e-4318-8e05-7e491a31",
+            "findings": "Some pages are blurry and hard to read. Re-upload\r\n\r\nTips: Please use official font in documenting. I suggest to use Times New Roman font.",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "c865756c-a5f8-4769-94b7-2dd97e30",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e807affd-efe4-4cfe-9b1b-a9a4b876",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "8afc3538-5e30-44eb-8b9e-1da4a6f9",
+            "findings": "* No entry on the highlights of the meeting. \r\n\r\nRecom: Do not put see attached Narrative Minutes. In the highlights of the meeting, include the following\r\n> Discussion on Resolutions in support to COVID-19 such as: \r\n1.) Reso 1: ....\r\n2.) Reso 2....\r\n3) Reso 3...",
+            "responsible_person": "burtobedencio",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "e4c6c307-e775-4a97-b242-ba3547da",
+            "findings": "Please recompute the \"percentage to population\".\r\n\r\nThe percentage of the population is derived by dividing the number of persons affected by the total number of population, then multiply the result by 100.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "07728a3d-0401-48c5-be0a-03482220",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fc67e3d7-85ed-4bb0-af44-8f90eb83",
+            "findings": "For the document to be more formal, include in the heading the logo of the barangay",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "e7e482ea-0285-4a1b-a155-33f79009",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d82d46e0-dede-4f3b-aa2a-ea5db25f",
+            "findings": "It should reflect in the signatory the name of the Brgy. Secretary since this is a resolution. This should attested by the punong barangay and concurred by the other members of the Brgy. Council. Please refer to resolutions of other barangay. ",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1b4cc637-af6d-47a3-88b0-d0b253ca",
+            "findings": "It should reflect in the signatory the name of the Brgy. Secretary since this is a resolution. This should attested by the punong barangay and concurred by the other members of the Brgy. Council. Please refer to resolutions of other barangay.\r\n\r\n",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "68fa53f1-5cf0-4167-b6ac-27492af7",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "50a08022-6b09-4554-8222-b3f06ddc",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nThank you!",
+            "responsible_person": "ethelgenerale",
+            "is_checked": "0",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "af5ddc82-0659-41e6-823d-bb294027",
+            "findings": "CV Form of Alvera Candelaza\r\n>No entry of Previous Trainings Attended for Non-KC and Membership in other Organization",
+            "responsible_person": "junaisahmontane",
+            "is_checked": "0",
+            "added_by": "Annabella Madelo"
+        },
+        {
+            "fk_file_guid": "5dcf24fe-3735-4b55-91c4-ee464b7d",
+            "findings": "1.) Please re-compute the column \"Percentage to Population\", seems you just divided the \"Number of Affected Persons\" by 100 and 1000. It should all be divided by the Total Number of Household of that barangay.",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "b210e572-74f1-42e6-a8fb-40d4b1e7",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "d2152dfa-cfae-4f50-80ef-c69ae3dc",
+            "findings": "Refer to Sec. 5 and subsequent paragraphs: Should be executive order, not resolution. \r\n\r\nMight as well improve other sections. You can write:\r\n\r\nSection 1. Reconstitution. Composition of the BDRRMC shall be reorganized for the purpose of implementing the Disaster Response Operation Modality (DROM) of KC-NCDDP. \r\n\r\nSection 2. Composition. Pursuant thereto, members of the BDRRMC shall be composed of the following:\r\n\r\n",
+            "responsible_person": "danwhelrosales",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "8b2dab8d-40e3-48da-9eba-a272b6ce",
+            "findings": "Based on the Attendance sheet, there were 8 male and 21 female attendees.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "fc67e3d7-85ed-4bb0-af44-8f90eb83",
+            "findings": "What is the first name of the Punong Barangay? Rogelio or Regelio? There are inconsistencies in some parts of the document as to his name. Kindly correct these as this is a formal document.",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0d21319c-5461-472a-8e03-92011b54",
+            "findings": "Please ensure that the watermark in the background is removed upon uploading.",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "b34c4301-593f-4732-9644-63534ba8",
+            "findings": "Please put in the title \"1st\" BDRRMC Meeting",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1a087330-9665-421c-949f-0d4aca45",
+            "findings": "Refer to \"Hereby Resolved\" clause: Should be \"Resolved, as it hereby resolved\". Also, it should be \"to activate\" not \"to active\"",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a7f43d19-bfa2-4970-9183-b11756d3",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly.",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "2d48dbfb-9ca0-491a-9a81-4c2f75b1",
+            "findings": "Narrative minutes is insufficient. Substantiate discussions for each agenda of the meeting. ",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "33e1b329-67fa-4632-90ef-4ca07760",
+            "findings": "Refer to 3rd Whereas clause: the word \"in lieu of\" means \"instead of\". What the phrase actually meant was \"... in addressing various issues and concerns that may arise DURING the implementation of the program. Please change the word accordingly because it diminished the essence of the phrase.\r\n\r\n",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "a7f43d19-bfa2-4970-9183-b11756d3",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Masgad...\"",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3aae2dce-69cf-4821-b0ba-76946fcf",
+            "findings": "Please refer to page 6, reading of BDRRMC resolutions: Include the resolution to adopt DROM\/P and concurrence of Brgy. grant",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "312f6cf4-b7e3-4d20-92a1-e04b7064",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "9295a48a-831f-40b4-acc9-fd476209",
+            "findings": "Refer to the column for # of SP beneficiaries within HH: Indicate the number of benes within the household, not just the head of the HH.",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ce0bb9e3-e8db-4f5b-b8f0-c77c0cc9",
+            "findings": "Please use the correct form in the compendium. CDD A-05",
+            "responsible_person": "christian",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "c687102a-9b0d-4bc5-bbd7-61f29536",
+            "findings": "1. Limit sa pagamit sa watermark labi naa pa ta sa review process. sakit sa mata sa mag review..Dili na kaayo mabasa ang narrative proposal;\r\n\r\nREcomm: padala mo utro ug narrative proposal nga clear docs sya.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "elsa montemor"
+        },
+        {
+            "fk_file_guid": "0032ffab-b341-4e76-8244-6726b63e",
+            "findings": "If a resolution is about the activation of a committee, it is a must to at least mention the composition and the names of the committee members. In this specific resolution, the GRS committee. Please indicate all the GRS committee members",
+            "responsible_person": "roditojaranilla",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "3177ace4-757e-45b1-9ae5-241b6065",
+            "findings": "Refer to item 4 highlights of the activity: Information is incomplete",
+            "responsible_person": "johnrayrivera",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "bd544409-61fb-48b0-8160-d021039b",
+            "findings": "Please upload the complete person profile forms of all CVs in the barangay. Refer to the excel file I previously emailed regarding this.\r\n\r\n",
+            "responsible_person": "erahjanecanda",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "dcd4cf5d-bf94-437e-baf7-76081d98",
+            "findings": "Please include in the title: 1st BDRRMC Meeting",
+            "responsible_person": "martinbaugbog",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "4f38d9b0-eefd-4ad2-bb16-2800b186",
+            "findings": "upload a clearer copy, esp in page 3",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "0a3b35bd-d1ea-47bf-b6c4-f909e528",
+            "findings": "Based on the attendance sheet, there were 16 attendees of the 1st BDRRMC Meeting: 4 Males and 12 Females.\r\n\r\n",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "aca1231c-0626-423c-8805-925e0bce",
+            "findings": "Please don't forget to include the barangay name in your title.\r\n\r\nEx. Barangay (Name of the Barangay) Rapit Assessment and Analysis Tool.\r\n\r\nSome parts of the document blurred. ",
+            "responsible_person": "mariageniearmocilla",
+            "is_checked": "1",
+            "added_by": "kim john hidalgo"
+        },
+        {
+            "fk_file_guid": "4df85b03-fd8e-4bd2-ab73-4f8a974d",
+            "findings": "Upload the notarized resolution",
+            "responsible_person": "lesliedatig",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "ab1804e8-049e-474d-ba6e-e101e99d",
+            "findings": "1.) Should have proper heading: Name of Municipality and Barangay.\r\n\r\n2.) Please review the computation of each column,\r\n\r\n3.) AC should also be one of the signatories.",
+            "responsible_person": "apipahcandidato",
+            "is_checked": "1",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "541a1e2f-544a-46aa-87ff-b415fa3a",
+            "findings": "t should reflect in the signatory the name of the Brgy. Secretary since this is a resolution. This should attested by the punong barangay and concurred by the other members of the Brgy. Council. Please refer to resolutions of other barangay.",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "02e20b1b-f5b1-40e9-80ce-da3af994",
+            "findings": "Refer to Resolved, as it hereby resolved clause: It should be \"to activate\" not \"to active\"\r\n\r\nThere are two \"Resolved, as it hereby resolved\" clauses in the document",
+            "responsible_person": "charisabaltazar",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1b4cc637-af6d-47a3-88b0-d0b253ca",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not just the GRS committee (as signified in the resolution title).\r\nShould be written: \"Resolved, as it hereby resolved, to activate the Grievance Redress System in Brgy. Binocaran ...\"",
+            "responsible_person": "khalynemaylon2020",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "cd764900-635d-4b42-bcad-673220d0",
+            "findings": "Refer to Resolved clause: The resolution was meant to activate the Grievance Redress System, not to adopt DROM\/P and Brgy. Grant",
+            "responsible_person": "asliahadjiali",
+            "is_checked": "1",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "1f4c32c8-6797-48c2-a8d3-bebffb65",
+            "findings": "Count of Male attendees in the Attendance sheet is on 2, however 3 in Activity Minutes form. Please update",
+            "responsible_person": "lasyrtubo",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        },
+        {
+            "fk_file_guid": "75a2392a-6949-4509-bb75-b6594fdd",
+            "findings": "In the third column, indicate the number of beneficiaries within the Household. Do not just account the HH head.",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "3d51267b-78ba-4eb9-abd8-b9a769a8",
+            "findings": "Based on the attendance sheet, there were 8 male and 12 female attendees",
+            "responsible_person": "christian",
+            "is_checked": "0",
+            "added_by": "ace kristoffer labadan"
+        },
+        {
+            "fk_file_guid": "5898cd08-78cb-495c-b817-f954e2f5",
+            "findings": "Be consistent with the Cycle, some of your documents are DROP2020.",
+            "responsible_person": "angelinesalim",
+            "is_checked": "0",
+            "added_by": "dina llagas"
+        }
+    ]
+}

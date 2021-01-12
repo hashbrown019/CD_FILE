@@ -1,0 +1,94 @@
+<div id="dash_view" class="x-animate-left menu_item_view"><br>
+	<h4 class="x-row x-text-blue"><span class="fa fa-dashboard"></span> Dashboard</h4>
+	<p class="x-text-grey x-small">Figures below shows the number of document stored on the system which can be view or downloaded. you have
+	also the option to view documents issues </p>
+	<div class="x-row x-container x-center">
+
+		<div class="x-round-large x-card x-hover-greyscale x-card x-hover-shadow x-padding x-white x-col l3 x-topbar x-border-green x-margin">
+			<h4 class="x-text-blue"><span class="fa fa-file-pdf-o x-text-red"></span> <b class="modality">------</b></h4>
+			<span class="x-text-grey x-tiny details">Modality Name</span>
+			<p class="x-center">
+				<b class="x-text-grey">Uploaded</b><br>
+				<b class="x-padding x-round-large x-light-grey num_count">----</b>
+			</p>
+			<hr>
+			<p class="x-small"><span class="x-text-red">Issues : </span><b>----</b></p>
+			<p class="x-small"><span class="x-text-yellow">Reviewed : </span><b>----</b></p>
+			<p class="x-small"><span class="x-text-green">Good : </span><b>----</b></p>
+			
+		</div>
+
+		<div class="x-round-large x-card x-hover-greyscale x-card x-hover-shadow x-padding x-white x-col l3 x-topbar x-border-green x-margin">
+			<h4 class="x-text-blue"><span class="fa fa-file-pdf-o x-text-red"></span> <b class="modality">------</b></h4>
+			<span class="x-text-grey x-tiny details">Modality Name</span>
+			<p class="x-center">
+				<b class="x-text-grey">Uploaded</b><br>
+				<b class="x-padding x-round-large x-light-grey num_count">----</b>
+			</p>
+			<hr>
+			<p class="x-small"><span class="x-text-red">Issues : </span><b>----</b></p>
+			<p class="x-small"><span class="x-text-yellow">Reviewed : </span><b>----</b></p>
+			<p class="x-small"><span class="x-text-green">Good : </span><b>----</b></p>
+			
+		</div>
+
+		<div class="x-round-large x-card x-hover-greyscale x-card x-hover-shadow x-padding x-white x-col l3 x-topbar x-border-green x-margin">
+			<h4 class="x-text-blue"><span class="fa fa-file-pdf-o x-text-red"></span> <b class="modality">------</b></h4>
+			<span class="x-text-grey x-tiny details">Modality Name</span>
+			<p class="x-center">
+				<b class="x-text-grey">Uploaded</b><br>
+				<b class="x-padding x-round-large x-light-grey num_count">----</b>
+			</p>
+			<hr>
+			<p class="x-small"><span class="x-text-red">Issues : </span><b>----</b></p>
+			<p class="x-small"><span class="x-text-yellow">Reviewed : </span><b>----</b></p>
+			<p class="x-small"><span class="x-text-green">Good : </span><b>----</b></p>
+			
+		</div>
+
+	</div>
+	{% include 'parts/dash_chart.html' %}
+</div>
+<script type="text/javascript">
+
+	create_card =(res)=>{
+		counter = 0
+		res_mod = JSON.parse(res)
+		modality = $CLASS("modality")
+		num_count = $CLASS("num_count")
+		for (var prop in res_mod) {
+			modality[counter].innerHTML = prop.replace("_"," ")
+			num_count[counter].innerHTML = res_mod[prop]
+			counter ++
+		}
+	}
+
+	get_doc_name_modality=()=>{
+		$send({
+			action:"/get_all_modality",
+			async:true,
+			func:load_dash_samp_modality
+		})
+	}
+
+	load_dash_samp_modality = (res) =>{
+		l_key = []
+		l_val = []
+		ls_res = JSON.parse(res)
+		for (var key in ls_res) {
+			if (ls_res.hasOwnProperty(key)) {
+				l_key.push(key)
+				l_val.push(ls_res[key])
+			}
+		}
+		load_dash_modality(l_key,l_val)
+	}
+	get_dash =()=>{
+		$send({
+				action: "/get_all_modality",
+				async : true,
+				func:create_card
+			})
+	}
+	get_dash()
+</script>

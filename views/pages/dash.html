@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	{% include 'head.html' %}
+	<body>
+		<header class="x-container x-padding">
+			<div class="x-row">
+			</div>
+			<h3 class="x-row x-text-blue">Document Tracking and Archives</i>
+				<span class="fa fa-check-square-o"></span>
+			</h3>
+			<div class="x-row">
+				<span class="dox_menu x-text-grey x-small" onclick="show_view('dash_view')"> Dashboard (RFR / Fullblown) </span> | 
+				<span class="dox_menu x-text-grey x-small" onclick="show_view('findings_view')">Findings RFR</span> |
+				<span class="dox_menu x-text-grey x-small" onclick="show_view('search_view')"> Search Documents </span> |
+				<span class="dox_menu x-text-grey x-small" onclick=""> Upload </span> |
+				<span class="dox_menu x-text-grey x-small" onclick="">
+					<span id="sync_bar" class="x-text-green" style="display: none;border-radius: 0px 20px 20px 0px ">
+						<span class="fa fa-refresh x-spin"></span><b class="x-text-green"> SYNCING</b>
+					</span>
+				</span>
+			</div>
+		</header>
+		<div class="x-padding">
+			<!-- ----------------------------- -->
+			{% include 'parts/dash_part.html' %}
+			<!-- ----------------------------- -->
+			{% include 'parts/search.html' %}
+			<!-- ----------------------------- -->
+			{% include 'parts/findings.html' %}
+			<!-- ----------------------------- -->
+		</div>
+		<div id="new_entry" class="x-modal" style="display: none;">
+			<div class="x-modal-content x-round-large x-animate-top">    
+				<div class="x-container x-padding">
+					<span onclick="document.getElementById('new_entry').style.display='none'"
+					class="x-button x-display-topright x-round-large"><b>&times;</b></span>
+					<h1 class="x-text-blue x-row">New Data is now Available<span class="fa fa-pdf"></span></h1>
+					<div id="pdf_view_modal_content" class="x-center x-col l4 x-container x-center x-row">
+						<h3 class="x-text-black"><b>NEW DATA</b></h3>
+						<p><b id="new_comp_data" class="x-jumbo x-padding x-red x-round-large">--</b></p>
+						<p class="x-text-grey"># of retreivable Data to be Downloaded</p>
+					</div>
+					<div id="pdf_view_modal_content" class="x-col x-leftbar l6 x-container x-row">
+						New data is now syncable to CDD data base. click sync now to download this new data
+						or you may download it later<br>
+						CDD Data Stored : <b id="old_data"></b><br>
+						Syncable Data : <b id="new_data"></b><br>
+						<hr>
+						<button class="x-btn x-round x-green" onclick="sync()">
+							Sync Now
+							<span class="fa fa-refresh"></span>
+						</button> |
+						<span class="x-text-blue x-animate-spin" style="cursor: pointer;" onclick="$('#new_entry').style.display='none'"> <u>Sync later</u></span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			show_view = (cl) =>{
+				views = $CLASS('menu_item_view')
+				for (var i = 0; i < views.length; i++) {
+					views[i].style.display = "none"
+				}
+				$('#'+cl).style.display = "block"
+			}
+
+			get_comp =(ress)=>{
+				res = JSON.parse(ress)
+				if(parseInt(res[0])<parseInt(res[1])){
+					$("#new_entry").style.display="block"
+					$("#old_data").innerHTML=res[0]
+					$("#new_data").innerHTML=res[1]
+					$("#new_comp_data").innerHTML=res[1]-res[0]
+				}
+			}
+
+			sync =()=>{
+				$('#new_entry').style.display='none'	
+				$("#sync_bar").style.display="block"	
+			}
+
+			$send({
+				action:'get_comp',
+				func:get_comp,
+				async: true
+			})
+
+		</script>
+	</body>
+</html>

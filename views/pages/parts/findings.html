@@ -1,0 +1,50 @@
+<div id="findings_view" class="x-animate-left menu_item_view" hidden><br>
+	<h4 class="x-row x-text-blue">Findings</h4>
+	<input id="find_search"
+		class="x-input x-border x-animate-input x-border x-round-xxlarge x-center"
+		placeholder="&#x1F50D;"
+		type="text"
+		name=""
+		style="outline: none;" > 
+	<p>showing <b id="num_f_Res"></b> results</p>
+	<div id='findings_res'class="x-container">
+		<div class="x-row x-padding">
+			Search results will appear hear. search results are base
+			on its file name and not by its content.<br>
+			Searching document by its contents is under construction<br>
+			<B>Stay Tuned</B>
+		</div>
+	</div>						
+</div>
+
+<script type="text/javascript">
+	var temp = ""
+	$("#findings_view").addEventListener("keyup", event => {
+		s_val = $("#inp_s").value
+		$send({
+			action : "/findings_search",
+			data: $DATA({'item':s_val}),
+			async : true,
+			func : setlist_findings_view
+		});
+		if(s_val.length == 0){$("#x-search").innerHTML="";$('#num_f_Res').innerHTML=0}
+	});
+
+	setlist_findings_view =(res)=>{
+		$('#findings_res').innerHTML = '';
+		$('#findings_res').innerHTML = res;
+		$('#num_f_Res').innerHTML = res.split('item_res').length - 1
+	}
+
+	view_findings =(f)=>{
+		$print("==========================")
+		findings = (f.replaceAll("^",/"/).replaceAll("/",""))
+		f_j = JSON.parse(("{^findings^:["+findings.substring(1, findings.length-1)+"]}").replaceAll("^",/"/).replaceAll("/","").replaceAll(/(?:\r\n|\r|\n)/g,""))
+		for (var i = 0; i < f_j['findings'].length; i++) {
+			$print(f_j['findings'][i])
+		}
+		$print("==========================")
+		
+	}
+
+</script>
